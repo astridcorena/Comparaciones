@@ -7,3 +7,5 @@
 //3.1 Si no son iguales regresa false
 //3.2 Si son iguales sigue comparando uno a uno
 //4.Regresamos un true
+
+![Esta es la imagen del diagrama](Diagrama.jpg)
